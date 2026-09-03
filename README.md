@@ -1,6 +1,7 @@
 # RunFlashSCP (SCP RP)
 ## Sommaire:
 - Information sur le repo
+- Installation
 - Propriété intellectuelle du Repo
 - Contexte
 - Prévention
@@ -12,6 +13,21 @@
 - Version: 0.0.0.0
 - Crédit:
     - kishirednight
+
+## Installation
+
+### Prérequis
+- Avoir Git installé sur votre PC
+- Téléchargez Git gratuitement ici : [git-scm.com](https://git-scm.com)
+
+### Ouvrir l'invite de commande
+- **Windows** : Appuyez sur `Win + R`, tapez `cmd`, puis appuyez sur `Enter`
+- **Alternative** : Ouvrez l'Explorateur de fichiers, allez au dossier où vous voulez télécharger le projet, puis faites un clic-droit et sélectionnez "Ouvrir le terminal ici"
+
+### Copier et coller cette commande
+```bash
+git clone https://github.com/Kishirednight/SCP-RP-Roblox-Run-commandes.git
+```
 
 ## Propriété intellectuelle du Repo
 
